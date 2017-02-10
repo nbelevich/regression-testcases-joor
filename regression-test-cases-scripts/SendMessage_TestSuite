@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="1_Home_Page_-_Login">1_Home_Page_-_Login</a></td></tr>
+<tr><td><a href="2_Send_a_Message_-Closed_button">2_Send_a_Message_-Closed_button</a></td></tr>
+<tr><td><a href="3_Send_a_Message_-_Send_button">3_Send_a_Message_-_Send_button</a></td></tr>
+<tr><td><a href="4_Send_a_Message_-_Send_to_all_my_Connections">4_Send_a_Message_-_Send_to_all_my_Connections</a></td></tr>
+<tr><td><a href="5_Send_a_Message_-_Empty_Recipient_Input">5_Send_a_Message_-_Empty_Recipient_Input</a></td></tr>
+<tr><td><a href="6_Send_a_Message_-_Subject_Input">6_Send_a_Message_-_Subject_Input</a></td></tr>
+<tr><td><a href="7_Send_a_Message_-_Message_Input">7_Send_a_Message_-_Message_Input</a></td></tr>
+<tr><td><a href="8_Send_a_Message_-_Subject_and_Message_Input">8_Send_a_Message_-_Subject_and_Message_Input</a></td></tr>
+<tr><td><a href="14_Send_a_Message_-_Select_Connection(one_recipient)">14_Send_a_Message_-_Select_Connection(one_recipient)</a></td></tr>
+<tr><td><a href="15_Send_a_Message_-_Select_Connection(more_than_1_recipient)">15_Send_a_Message_-_Select_Connection(more_than_1_recipient)</a></td></tr>
+<tr><td><a href="16_Send_a_Message_-_Select_and_Clear_Recipient">16_Send_a_Message_-_Select_and_Clear_Recipient</a></td></tr>
+</tbody></table>
+</body>
+</html>
